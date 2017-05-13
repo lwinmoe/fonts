@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Padauk';
+  src: url('http://fonts.lwinmoe.org/Padauk/Padauk.eot');
+  src: url('http://fonts.lwinmoe.org/Padauk/Padauk.woff') format('woff'),
+       url('http://fonts.lwinmoe.org/Padauk/Padauk.ttf') format('truetype'),
+       url('http://fonts.lwinmoe.org/Padauk/Padauk.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
