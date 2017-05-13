@@ -4,8 +4,8 @@ This repo is for [fonts.lwinmoe.org](http://fonts.lwinmoe.org).
 
 ## CSS
 
-[burmese.css](http://fonts.lwinmoe.org/burmese.css)
-[lisu.css](http://fonts.lwinmoe.org/lisu.css)
+- [burmese.css](http://fonts.lwinmoe.org/burmese.css)
+- [lisu.css](http://fonts.lwinmoe.org/lisu.css)
 
 ## Fonts
 
